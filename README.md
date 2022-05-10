@@ -17,6 +17,8 @@ Oii, aqui é o Guilherme Braz!!
  💼 Cursando: <strong>Ensino Médio profissionalizante em Informátifca - conclusão em 2022.</strong>
 </p>
 
+<hr>
+
 <div align="center" >
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guigobraz&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guigobraz&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff&layout=compact" alt="guigo"/>
@@ -34,6 +36,8 @@ Oii, aqui é o Guilherme Braz!!
 </div>
 
 ###
+
+<hr>
 
 <div align="center"> 
   <p>
