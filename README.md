@@ -14,7 +14,7 @@ Oii, aqui é o Guilherme Braz!!
  
  
 <p align="left">
- 💼 Cursando: <strong>Ensino Médio profissionalizante em Informátifca - conclusão em 2022.</strong>
+ 💼 Cursando: <strong>Ensino Médio profissionalizante em Informática - conclusão em 2022.</strong>
 </p>
 
 <hr>
